@@ -13,7 +13,7 @@ public class BasicSwitch {
             case 10:
                 System.out.println("ten");
                 break;
-            case 20:
+            case 30:
                 System.out.println("twenty");
                 break;
         }
